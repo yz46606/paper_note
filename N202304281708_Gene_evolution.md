@@ -2,7 +2,7 @@
 
  Key words: `cell` `gene evolution`  
  
- this note is inherited from [K202304281629_Itai](./K202304281629_Itai.md)
+ this note is inherited from [K202304281629_Itai](https://github.com/yz46606/zettle_yz/blob/main/K202304281629_Itai.md)
  
 # Paper reading summary
 
