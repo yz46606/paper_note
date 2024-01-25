@@ -2,7 +2,8 @@
 
  Key words: `promoter` `DNA methylation` `epigenetic` 
  
-
+ this note is inherited from [K202304281629_Itai](https://github.com/yz46606/zettle_yz/blob/main/K202304281629_Itai.md)
+ 
 ## Background
 
 ## Results
