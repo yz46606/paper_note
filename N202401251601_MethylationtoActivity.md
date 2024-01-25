@@ -1,1 +1,21 @@
+`N202401251601` MethylationToActivity: a deep-learning framework that reveals promoter activity landscapes from DNA methylomes in individual tumors
+
+ Key words: `promoter` `DNA methylation` `epigenetic` 
+ 
+
+## Background
+
+## Results
+the paper analyse 
+
+## Method
+xx
+
+## Summary and thoughts
+xx
+
+# Reference
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02220-y#Sec15
+
+# others
 
