@@ -6,6 +6,8 @@
  
 ## Background
 
+The research predict promoter activity (measured by K4 and K27 enrichment) based on WGBS DNA methylomes of varous pediatric and adult cancers.
+
 ## Results
 the paper analyse 
 
